@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Yago
 
-<!--
-**yago-xd/yago-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Class 10 ICSE student | 🖥️ Aspiring Computer Science Engineer  
+🧠 I enjoy practical coding and hate rote learning.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Learning
+- Java (OOP, basics, small console projects)
+- Python (scripts and logic)
+- Git + GitHub
+- Basics of LeetCode & competitive coding
+
+---
+
+## 📂 Latest Project
+- [🎯 Number Guessing Game](https://github.com/yago-xd/)  
+  A console-based Java game that lets users guess a randomly generated number with replay and input validation.
+
+---
+
+## 🛠️ Tools I Use
+- Java, Python, C++
+- IntelliJ IDEA, VS Code
+- Git & GitHub
+
+---
+
+## 🌱 Current Goals
+- Learn GitHub properly and upload more projects  
+- Build a simple website by September  
+- Start solving basic LeetCode problems  
+- Create 5 beginner-level Java projects by October
+
+---
+
+> "I learn by building — every project helps me grow."  
