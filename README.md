@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yago
 
-🎓 Class 10 ICSE student | 🖥️ Aspiring Computer Science Engineer  
+🎓 Class 10 ICSE student, 14 years old | 🖥️ Aspiring Computer Science Engineer  
 🧠 I enjoy practical coding and hate rote learning.  
 
 ---
