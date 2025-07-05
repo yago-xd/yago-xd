@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Latest Project
-- [🎯 Number Guessing Game](https://github.com/yago-xd/)  
+- [🎯 Number Guessing Game](https://github.com/yago-xd/number-guessing)  
   A console-based Java game that lets users guess a randomly generated number with replay and input validation.
 
 ---
