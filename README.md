@@ -17,6 +17,9 @@
 - [🎯 Number Guessing Game](https://github.com/yago-xd/number-guessing)  
   A console-based Java game that lets users guess a randomly generated number with replay and input validation.
 
+- [🪨 Rock Paper Scissors](https://github.com/yago-xd/rps-game)  
+  A console-based Java game that lets users play the game of rps against the computer with replay, input validation and custom text prompts
+
 ---
 
 ## 🛠️ Tools I Use
