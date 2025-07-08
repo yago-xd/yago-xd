@@ -14,6 +14,9 @@
 ---
 
 ## 📂 Latest Project
+- [✖️ Tic-Tac-Toe](https://github.com/yago-xd/tictactoe)  
+  A full-featured, interactive, and replayable Tic Tac Toe game built in Java, where you challenge a computer in a classic battle of tictactoe
+
 - [🎯 Number Guessing Game](https://github.com/yago-xd/number-guessing)  
   A console-based Java game that lets users guess a randomly generated number with replay and input validation.
 
