@@ -14,17 +14,20 @@
 ---
 
 ## 📂 Latest Project
+- [🖊️ Typing Speed Checker](https://github.com/yago-xd/typing-speed)  
+  A small, interactive console based Java speed test project that displays the WPM, accuracy, words typed and time taken to type a given sentence
+
 - [💀 Hangman](https://github.com/yago-xd/hangman)  
   A fully built, interactive, simple console based hangman game built in Java that allows the user to guess a random word
   
 - [✖️ Tic-Tac-Toe](https://github.com/yago-xd/tictactoe)  
   A full-featured, interactive, and replayable Tic Tac Toe game built in Java, where you challenge a computer in a classic battle of tictactoe
-
-- [🎯 Number Guessing Game](https://github.com/yago-xd/number-guessing)  
-  A console-based Java game that lets users guess a randomly generated number with replay and input validation.
-
+  
 - [🪨 Rock Paper Scissors](https://github.com/yago-xd/rps-game)  
   A console-based Java game that lets users play the game of rps against the computer with replay, input validation and custom text prompts
+  
+- [🎯 Number Guessing Game](https://github.com/yago-xd/number-guessing)  
+  A console-based Java game that lets users guess a randomly generated number with replay and input validation.
 
 ---
 
