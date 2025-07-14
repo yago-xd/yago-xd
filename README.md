@@ -14,6 +14,9 @@
 ---
 
 ## 📂 Latest Project
+- [📕 Word Scramble](https://github.com/yago-xd/word-scramble)  
+  A simple console based word scramble game where the user has to unscramble the scrambled word within 5 attempts.
+
 - [🖊️ Typing Speed Checker](https://github.com/yago-xd/typing-speed)  
   A small, interactive console based Java speed test project that displays the WPM, accuracy, words typed and time taken to type a given sentence
 
