@@ -14,6 +14,9 @@
 ---
 
 ## 📂 Latest Project
+- [4️⃣ Connect Four](https://github.com/yago-xd/connect-four)  
+  A simple connect four playable game in Java in the console with support for replay. Challenge the computer into a battle of the classic Connect 4.
+
 - [📕 Word Scramble](https://github.com/yago-xd/word-scramble)  
   A simple console based word scramble game where the user has to unscramble the scrambled word within 5 attempts.
 
