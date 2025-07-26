@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Yago
+# 👋 Hi, I'm Srijan
 
-🎓 Class 10 ICSE student, 14 years old | 🖥️ Aspiring Computer Science Engineer  
+🎓 Class 10 ICSE student, 15 years old 🥳 | 🖥️ Aspiring Computer Science Engineer  
 🧠 I enjoy practical coding and hate rote learning.  
 
 ---
